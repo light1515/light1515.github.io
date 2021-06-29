@@ -1,7 +1,3 @@
----
-title-heading: false
----
-
 # Andy Yen's Portfolio
 
 Current graduate student at Cal State Fullerton, majoring in computer science. 
