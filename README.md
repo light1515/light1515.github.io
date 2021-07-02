@@ -1,4 +1,4 @@
-# Andy Yen
+# Hello, my name is Andy Yen! Welcome to my portfolio!
 
 Currently studying computer science as a graduate student at Cal State Fullerton. 
 
