@@ -4,7 +4,7 @@ Currently studying computer science as a graduate student at Cal State Fullerton
 
 ## Contact info
 - Email: andyyen42@gmail.com
-- Linkedin: https://www.linkedin.com/in/andy-yen-40a544126/
+- Linkedin: [https://www.linkedin.com/in/andy-yen-40a544126/](https://github.com/marklanglo/CPSC362GroupEProject)
 
 
 ## [Project 1: Employee Management System Program](https://github.com/marklanglo/CPSC362GroupEProject)
