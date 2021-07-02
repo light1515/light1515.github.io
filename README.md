@@ -1,6 +1,7 @@
 # Hello, my name is Andy Yen! Welcome to my portfolio!
 
-Currently studying computer science as a graduate student at Cal State Fullerton. 
+I'm currently studying computer science as a graduate student at Cal State Fullerton. Im expecting to graduate in July of I have some familiarity with C, C++, and Python, but
+am expanding my knowledge with front end languages as well. 
 
 ## Contact info
 - Email: andyyen42@gmail.com
