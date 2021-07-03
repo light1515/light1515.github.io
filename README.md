@@ -5,7 +5,7 @@ am expanding my knowledge with front end languages as well.
 
 ## Contact info
 - Email: andyyen42@gmail.com
-- Linkedin: [https://www.linkedin.com/in/andy-yen-40a544126/](https://github.com/marklanglo/CPSC362GroupEProject)
+- Linkedin: [https://www.linkedin.com/in/andy-yen-40a544126/](https://www.linkedin.com/in/andy-yen-40a544126/)
 
 
 ## [Project 1: Employee Management System Program](https://github.com/marklanglo/CPSC362GroupEProject)
